@@ -1,0 +1,13 @@
+# mr10.nl
+
+> Persoonlijke portfoliosite van Maarten van de Voorde (mr10) — digital projectmanager, UX designer en creatief probleemoplosser, gevestigd in Emmeloord, Flevoland.
+
+## Over
+Maarten combineert projectmanagement met UX design, art direction en webontwikkeling. Sinds 2003 actief als mr10 (ontwerp, advies & webontwikkeling); sinds 2022 tevens projectmanager & consultant bij Van der Let & Partners (marketing & webdevelopment, Heerenveen). Expertise: UX design, art direction, interactiedesign, webontwikkeling (o.a. WordPress), marketingstrategie en grafisch ontwerp.
+
+## Pagina's
+- Home (/): profiel, werkervaring, opleiding en contactgegevens.
+
+## Contact
+- Website: https://mr10.nl/
+- LinkedIn: https://www.linkedin.com/in/maartenvandevoorde

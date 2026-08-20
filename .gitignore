@@ -1,0 +1,6 @@
+node_modules/
+dist/
+dist.tar.gz
+mr10.nl.zip
+.DS_Store
+*.log

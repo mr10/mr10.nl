@@ -1,0 +1,4 @@
+Contact: mailto:maarten@mr10.nl
+Preferred-Languages: nl, en
+Canonical: https://mr10.nl/.well-known/security.txt
+Expires: 2027-08-20T00:00:00.000Z

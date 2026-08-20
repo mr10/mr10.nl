@@ -1,0 +1,20 @@
+{
+  "title": "mr10 – Maarten van de Voorde | Digital Projectmanager & UX Design",
+  "description": "Persoonlijke portfoliosite van Maarten van de Voorde (mr10) — digital projectmanager, UX designer en creatief probleemoplosser, gevestigd in Emmeloord, Flevoland.",
+  "language": "nl",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.png"
+  },
+  "openGraph": {
+    "image": "https://mr10.nl/og-image.jpg"
+  },
+  "accessibility": {
+    "addBypassLinks": true
+  },
+  "customScripts": {
+    "headEnd": "<link rel=\"canonical\" href=\"https://mr10.nl/\" />\n<link rel=\"apple-touch-icon\" href=\"/apple-touch-icon.png\" />\n<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Maarten van de Voorde\",\"alternateName\":\"mr10\",\"url\":\"https://mr10.nl/\",\"image\":\"https://mr10.nl/og-image.jpg\",\"jobTitle\":\"Digital Projectmanager & UX Designer\",\"email\":\"mailto:maarten@mr10.nl\",\"sameAs\":[\"https://www.linkedin.com/in/maartenvandevoorde\"],\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Emmeloord\",\"addressRegion\":\"Flevoland\",\"addressCountry\":\"NL\"},\"worksFor\":{\"@type\":\"Organization\",\"name\":\"Van der Let & Partners\"}}</script>"
+  }
+}
